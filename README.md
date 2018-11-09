@@ -4,7 +4,7 @@
 
 Posted Date | Response Date | Set Aside | Classification Code 
 ------------ | ------------- | ------------- | -------------
-November 09, 2018 | November 20, 2018 | N/A | R -- Professional, Administrative and Management Support Services
+November 09, 2018 | November 20, 2018 | N/A | D -- Information Technology and Telecommunications
 
 *This is a request for information notice only. This is not a request for an offer or proposals. This notice does not represent a commitment by the government to issue a solicitation or award a contract. Information received will be used to determine the availability of technically capable and otherwise responsible firms that would be interested in submitting offers.*
 
