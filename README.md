@@ -56,17 +56,17 @@ The contractor shall perform the work off-site at their own workplaces.
 Contractor personnel should be available during normal business hours for US time zones.
 
 ## 8.0 How to Respond
-Offerors capable of performing as a prime contractor that meet the requirements stated above are encouraged to complete this form: https://docs.google.com/forms/d/1Rq-YCBwRr4pV8ppm73_xGFA2MyLmPxyqa3kSe-43Ca4/edit
+Offerors capable of performing as a prime contractor that meet the requirements stated above are encouraged to complete [the form for this RFI](https://docs.google.com/forms/d/1Rq-YCBwRr4pV8ppm73_xGFA2MyLmPxyqa3kSe-43Ca4/edit). 
 Interested firms having the capabilities necessary to meet or exceed the stated requirements are encouraged to submit responses addressing each of the questions in the Google Form. All responses shall be submitted via the referenced Google Form above no later than 4:00 PM ET, November 20, 2018. Any additional questions may be submitted directly to Joseph Dorsey at Joseph.Dorsey@gsa.gov . Please reference "cloud.gov Support Services Project Request for Information" in any email responses.
 
 ## 9.0 Virtual Industry Day
 Vendors are also invited to attend a virtual industry day hosted by cloud.gov. The purpose of the industry day is to allow vendors and the government to have the opportunity to share information and clarify components of the upcoming requirement. 
 
-The Federal Government invites all interested parties (vendors, vendor partnerships, engineers, digital experts, and others) to participate in a Virtual Industry Event taking place on Friday, November 16, 2018 from 12:00pm ET to 1:30PM ET. Note, that all participant phone lines will be muted during the event and any questions must be submitted to the government team via the virtual meeting chat box. Questions may also be submitted in advance of the meeting to Joseph.Dorsey@gsa.gov or via GitHub.
+The Federal Government invites all interested parties (vendors, vendor partnerships, engineers, digital experts, and others) to participate in a Virtual Industry Event taking place on Friday, November 16, 2018 from 12:00pm ET to 1:30PM ET. Note that all participants will be muted during the event and any questions must be submitted to the government team via the virtual meeting chat box. Questions may also be submitted in advance of the meeting to Joseph.Dorsey@gsa.gov or via [an issue submitted to this GitHub repository](https://github.com/18F/tts-buy-cloud-support-services/issues/new).
 
-Logistics: Link to participate in the Virtual Industry Event will be provided via a confirmation email following successful RSVP here: https://docs.google.com/forms/d/1EqQmJJpotbYGmp5DHvP7Uhi7ntl6QE6-iIxE5_zLmd8/edit. The meeting will be held on Zoom.us. 
+Logistics: Link to participate in the Virtual Industry Event will be provided via a confirmation email following successful completion of [the RSVP form](https://docs.google.com/forms/d/1EqQmJJpotbYGmp5DHvP7Uhi7ntl6QE6-iIxE5_zLmd8/edit). The meeting will be held using Zoom.us. Information for joining the event will be provided with a meeting invitation after your firm submits its RSVP.
 
-Link to call-in information will be provided with meeting invitation after your firm submits its RSVP. We encourage as much participation as possible, however in order to ensure an efficient industry day, we request firms with multiple participants utilize one line and submit as many questions as possible in advance.   
+We encourage as much participation as possible, however in order to ensure an efficient industry day, we request firms with multiple participants utilize one line and submit as many questions as possible in advance.   
 
 Any parties interested in attending the industry day must RSVP by COB Wednesday, November 14, 2018. 
 
