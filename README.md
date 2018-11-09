@@ -28,6 +28,7 @@ The North American Industry Classification System (NAICS) code for this procurem
 We anticipate that NAICS codes may include:
 * 54 -- Professional, Scientific and Technical Services
 * 541511 -- Custom Computer Programming Services
+
 vendors can suggest a NAICS code as well
 
 ## 6.0 Objectives for technical services
