@@ -58,7 +58,7 @@ This is a Request for Quote (RFQ) using GSA Schedules under FAR Subpart 8.4 (Fed
 
 Since vendor submissions are simply quotes under the GSA Schedule program, TTS is not obligated to determine a competitive range, conduct discussions with all vendors, solicit final revised quotes, and use other techniques associate with FAR part 15. The contracting techniques associated with FAR Part 15 do not apply.
 
-This solicitation, and any published updated, are being published to GSA e-Buy and GitHub.
+This solicitation, and any published updates, are being published to GSA e-Buy and GitHub.
 
 **Solicitation Attachments:**
 
