@@ -13,19 +13,13 @@ Quotes will only be accepted via the referenced Google Forms below. The vendor s
 
 ## Statement of Need
 
-[TODO change this]
-
-To continue to successfully achieve cloud.gov’s mission, cloud.gov
-requires annual re-assessment for all participating Cloud Service Providers, including annual auditing by an accredited Third Party Assessment Organization
-([3PAO](https://www.fedramp.gov/participate/assessors/)).
+To continue to successfully achieve cloud.gov’s mission, the cloud.gov team requires additional skilled staff who are capable of contributing to ongoing maintenance and expansion of cloud.gov's capabilities.
 
 ### What we're hoping to end up with
 
-[TODO change this]
-
 Additional information is provided in the RFQ, but in short:
 
-The vendor must provide security assessments and reports for an Annual Assessment, with options for including Significant Change Request assessments, for cloud.gov at the JAB Moderate security level. These security assessments must meet all of the requirements of a FedRAMP security assessment, as outline within the Request of Quotation section 3.0 Requirements.
+The vendor must provide staff who are already skilled and experienced with the key pillars that enable cloud.gov to exist (Terraform, Bosh, Concourse, and Cloud Foundry, etc.) and the typical Operations and Maintenance processes associated with them. The vendor should also bring experience with key components that enable planned future capabilities (other IaaS providers, add-on Cloud Foundry capabilities, kubernetes, etc.) into the team.
 
 ### How to respond
 
