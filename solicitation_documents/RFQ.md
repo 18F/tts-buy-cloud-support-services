@@ -13,10 +13,43 @@ Technology Transformation Services \
 **Set Aside:** None \
 **Contract Vehicle:** GSA Schedule 70 Special Item Number (SIN) 132 51 Information  Technology Professional Services & SIN 132 40 Cloud Computing Services
 
-**Table of Contents:**
+## Table of Contents
 
-TODO Insert table of contents here
-
+- [Request for Quotation](#request-for-quotation)
+  * [1.0 General Information](#10-general-information)
+  * [2.0 Background](#20-background)
+  * [3.0 Requirements](#30-requirements)
+  * [4.0 Evaluation](#40-evaluation)
+    + [4.1 Basis for Award](#41-basis-for-award)
+    + [4.2 Evaluation Criteria](#42-evaluation-criteria)
+    + [4.3 Submissions Instructions](#43-submissions-instructions)
+- [Terms and Conditions](#terms-and-conditions)
+  * [5.0 Period of Performance](#50-period-of-performance)
+  * [6.0 Place of Performance and Hours](#60-place-of-performance-and-hours)
+  * [7.0 Type of Contract](#70-type-of-contract)
+  * [8.0 Government Furnished Information](#80-government-furnished-information)
+  * [9.0 Contractor Furnished Property/Equipment/Information](#90-contractor-furnished-propertyequipmentinformation)
+  * [10.0 Key Personnel](#100-key-personnel)
+    + [10.1 Key Personnel](#101-key-personnel)
+    + [10.2 Key Personnel Changes](#102-key-personnel-changes)
+  * [11.0 Invoicing](#110-invoicing)
+    + [11.1 Content of Invoice](#111-content-of-invoice)
+    + [11.2 Invoice Submission](#112-invoice-submission)
+    + [11.3 Final Invoice](#113-final-invoice)
+  * [12.0 Administration](#120-administration)
+  * [13.0 Post Award and Kickoff Meeting](#130-post-award-and-kickoff-meeting)
+    + [13.1 Post Award Orientation Conference](#131-post-award-orientation-conference)
+    + [13.2 Early Termination](#132-early-termination)
+    + [13.3 Travel](#133-travel)
+  * [14.0 Contractor Performance Information](#140-contractor-performance-information)
+  * [15.0 TTS Transparency Policy](#150-tts-transparency-policy)
+    + [15.1 Section 508 Compliance](#151-section-508-compliance)
+    + [15.2 Privacy Act](#152-privacy-act)
+    + [15.3 Protection of Information](#153-protection-of-information)
+    + [15.4 Organizational Conflicts of Interest](#154-organizational-conflicts-of-interest)
+    + [15.5 Data Rights and Ownership of Deliverables](#155-data-rights-and-ownership-of-deliverables)
+  * [16.0 Clauses](#160-clauses)
+  
 ## 1.0 General Information
 
 General Services Administration (GSA) Federal Acquisition Service (FAS) Technology Transformation Services (TTS) Office of Acquisition (OA), is seeking a full range of cloud.gov professional services to support technical system, specifically the Cloud Foundry-based platform and supporting services and web applications per the Performance Work Statement (PWS). TTS will be issuing a Labor Hour (LH) contract against the GSA Federal Supply Schedule (FSS) contract 70.
