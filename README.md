@@ -30,7 +30,7 @@ Additional information is provided in the [Instructions section](https://github.
 
 Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and the [RFQ Pricing Response Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3), by the official closing date and time identified above. A late quotation will not be considered for award.
 
-Vendors may also respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or via Ebuy
+Vendors may also respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or via Ebuy (https://www.ebuy.gsa.gov/ebuy/)
 
 ## Contributing
 
