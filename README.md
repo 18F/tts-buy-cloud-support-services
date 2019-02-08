@@ -28,9 +28,9 @@ The vendor must provide staff who are already skilled and experienced with the k
 
 Additional information is provided in the [Submission Instructions section](solicitation_documents/RFQ.md#43-submissions-instructions) of the RFQ, but in short:
 
-Quotation must be received electronically via the [RFQ Technical Response Form](https://docs.google.com/forms/d/e/1FAIpQLScTli3RcIywCPs0DAUGQaUsvL-nkxKaPvqTqwG-9o38s-D8ag/viewform) and the [RFQ Pricing Response Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3), by the official closing date and time identified above. A late quotation will not be considered for award.
+Quotation must be received electronically via the [RFQ Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScTli3RcIywCPs0DAUGQaUsvL-nkxKaPvqTqwG-9o38s-D8ag/viewform) by the official closing date and time identified above. A late quotation will not be considered for award.
 
-Vendors may also respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or via Ebuy (https://www.ebuy.gsa.gov/ebuy/)
+In the event of technical problems with the form, vendors may also respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or [via Ebuy](https://www.ebuy.gsa.gov/ebuy/).
 
 ## Contributing
 
