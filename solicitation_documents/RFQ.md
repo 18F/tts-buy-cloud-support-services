@@ -62,11 +62,9 @@ This solicitation, and any published updates, are being published to GSA e-Buy a
 
 **Solicitation Attachments:**
 
-TODO: These need to be local links, rather than pointing to Google Drive
-
-* [Attachment A - RFQ Performance Work Statement (PWS)](https://docs.google.com/document/d/1JHns3nU58Tx_MN55HCJdifNcjOv9MlFotNzwqVvGBQU/edit#heading=h.xmkg46x4ggop)
-* [Attachment B - RFQ Pricing Sheet](https://docs.google.com/spreadsheets/d/1f2cqMTKrsnYES2A5_VH-4fcXUCKdscCYwSWwht9U6xw/edit)
-* [Attachment C - QASP](https://docs.google.com/document/d/1Rizj1PFv3Dktc0nqdvoBxQTTK4uRz5kQRQqxvk8AdJ8/edit)
+* [Attachment A - RFQ Performance Work Statement (PWS)](Attachment-A-PWS-cloud.gov-support-services.pdf)
+* [Attachment B - RFQ Pricing Sheet](Attachment-B-RFQ-Pricing-Sheet-GSA-TTS-cloud.gov-support-services.xlsx)
+* [Attachment C - QASP](Attachment-C-QASP-cloud-support-services.pdf)
 
 * Link - [RFQ Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScTli3RcIywCPs0DAUGQaUsvL-nkxKaPvqTqwG-9o38s-D8ag/viewform?usp=sf_link) 
 
