@@ -8,7 +8,7 @@ Q&A Due - February 15, 2019
 
 ### Question and Answer Period
 
-All questions submitted concerning the RFQ must be submitted using the [issue template](https://github.com/18F/tts-buy-cloud-support-services/issues/new) in the associated repository no later than [TODO need the date here]. The Government will provide responses to open issues as soon as possible.
+All questions submitted concerning the RFQ must be submitted using the [issue template](https://github.com/18F/tts-buy-cloud-support-services/issues/new) in the associated repository no later than February 15, 2019. The Government will provide responses to open issues as soon as possible.
 
 ### Technical and Price Submission
 Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the Technical Response Google Form and Price Response Google Form. Quotes shall be submitted no later than 4:00 pm EST on February 22, 2019.
