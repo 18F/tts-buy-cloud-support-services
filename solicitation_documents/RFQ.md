@@ -114,7 +114,7 @@ Vendors are cautioned not to include assumptions, caveats, or exceptions within 
 
 #### 4.2.1 Phase 1 –  Technical Response
 
-As vendors respond to each criteria below, vendors are required to provide how they will meet the objective and tasks identified in the [Performance Work Statement](https://docs.google.com/document/d/1JHns3nU58Tx_MN55HCJdifNcjOv9MlFotNzwqVvGBQU/edit#heading=h.xmkg46x4ggop). TODO fix link
+As vendors respond to each criteria below, vendors are required to provide how they will meet the objective and tasks identified in the [Performance Work Statement](Attachment-A-PWS-cloud.gov-support-services.pdf).
 
 ##### Criteria 1 - Technical understanding and approach (limit to 3 pages)
 
