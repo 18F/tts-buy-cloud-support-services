@@ -4,6 +4,7 @@ This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award wil
 
 ## Important Dates to Remember
 Response Date - February 22, 2019
+
 Q&A Due - February 15, 2019
 
 ### Question and Answer Period
