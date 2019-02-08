@@ -26,11 +26,11 @@ The vendor must provide staff who are already skilled and experienced with the k
 
 ### How to respond
 
-Vendors may respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or via Ebuy
-
 Additional information is provided in the [Instructions section](https://github.com/18F/tts-buy-cloud-support-services/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
 
 Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and the [RFQ Pricing Response Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3), by the official closing date and time identified above. A late quotation will not be considered for award.
+
+Vendors may also respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or via Ebuy
 
 ## Contributing
 
