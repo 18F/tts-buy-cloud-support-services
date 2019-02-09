@@ -3,10 +3,13 @@
 This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award will not be made prior to receipt and acceptance of the funds. See FAR 52.232-18 Availability of Funds (APR 1984) in the Clause section of this RFQ.
 
 ## Important Dates to Remember
+Response Date - February 22, 2019
+
+Q&A Due - February 15, 2019
 
 ### Question and Answer Period
 
-All questions submitted concerning the RFQ must be submitted using the [issue template](https://github.com/18F/tts-buy-cloud-support-services/issues/new) in the associated repository no later than [TODO need the date here]. The Government will provide responses to open issues as soon as possible.
+All questions submitted concerning the RFQ must be submitted using the [issue template](https://github.com/18F/tts-buy-cloud-support-services/issues/new) in the associated repository no later than February 15, 2019. The Government will provide responses to open issues as soon as possible.
 
 ### Technical and Price Submission
 Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the Technical Response Google Form and Price Response Google Form. Quotes shall be submitted no later than 4:00 pm EST on February 22, 2019.
@@ -23,11 +26,11 @@ The vendor must provide staff who are already skilled and experienced with the k
 
 ### How to respond
 
-[TODO, we don't have an equivalent section to point to]
+Additional information is provided in the [Submission Instructions section](solicitation_documents/RFQ.md#43-submissions-instructions) of the RFQ, but in short:
 
-Additional information is provided in the [Instructions section](https://github.com/18F/tts-buy-cloud-support-services/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
+Quotation must be received electronically via the [RFQ Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScTli3RcIywCPs0DAUGQaUsvL-nkxKaPvqTqwG-9o38s-D8ag/viewform) by the official closing date and time identified above. A late quotation will not be considered for award.
 
-Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and the [RFQ Pricing Response Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3), by the official closing date and time identified above. A late quotation will not be considered for award.
+In the event of technical problems with the form, vendors may also respond via email to Joseph Dorsey (Joseph.Dorsey@gsa.gov) or [via Ebuy](https://www.ebuy.gsa.gov/ebuy/).
 
 ## Contributing
 
