@@ -7,13 +7,13 @@ Technology Transformation Services \
 
 **Solicitation Number RFQ1349024**
 
-Amendment 001 \
-Dated February 08, 2019
+Amendment 002 \
+Dated February 20, 2019
  
 **From:** Joseph Dorsey , Contracting Officer, General Services Administration (GSA), Federal Acquisition Service (FAS), Technology Transformation Services (TTS), Office of Acquisition (OA) \
 **Subject:** Request for Quotation (RFQ) \
 **Issue Date: February 06, 2019** \
-**Response Date: February 22, 2019 4:00 pm EST** \
+**Response Date: February 25, 2019 5:00 pm EST** \
 **Set Aside:** None \
 **Contract Vehicle:** GSA Schedule 70 Special Item Number (SIN) 132 51 Information  Technology Professional Services & SIN 132 40 Cloud Computing Services
 
@@ -163,7 +163,7 @@ Continuity, technical expertise, and institutional knowledge are important for t
 
 For each personnel:
 
-* 3+ years of experience designing and developing business applications or other software
+* 3+ years of experience or demonstrable senior experience designing and developing business applications or other software
 
 * Experience working in a team environment applying XP methods (such as pairing and test-driven development) and agile practices (such as Scrum or Kanban)
 
@@ -274,7 +274,7 @@ Contractor Teaming Arrangements (CTA) are permitted. If the vendor intends to te
 
 **Quote Instructions:** Quotes in response to the RFQ must be uploaded into the [RFQ Submission Form - cloud.gov Support Services](https://docs.google.com/forms/d/e/1FAIpQLScTli3RcIywCPs0DAUGQaUsvL-nkxKaPvqTqwG-9o38s-D8ag/viewform?usp=sf_link). No other submission method will be accepted.
 
-**Quote Due Date/Time:** All quotes are due by February 22, 2019 at 4:00PM EST. TTS will begin immediate review and evaluation of the submissions following the RFQ closing date and time. Therefore, submissions or information requests about this RFQ received after the closing date and time, are considered late, and will not be accepted
+**Quote Due Date/Time:** All quotes are due by February 25, 2019 at 5:00PM EST. TTS will begin immediate review and evaluation of the submissions following the RFQ closing date and time. Therefore, submissions or information requests about this RFQ received after the closing date and time, are considered late, and will not be accepted
 
 # Terms and Conditions
 
@@ -454,6 +454,8 @@ This contract incorporates one or more clauses by reference, with the same force
 **(End of clause)**
 
 **FAR 52.232.18 - Availability of Funds (Apr 1984)**
+
+**FAR 52.204-22 Alternative Line Item (Jan 2017)**
 
 **FAR 52.212-4- Contract Terms and Conditions - Commercial items (JAN 2017)**
 
