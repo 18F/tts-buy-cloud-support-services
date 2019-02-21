@@ -3,7 +3,7 @@
 This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award will not be made prior to receipt and acceptance of the funds. See FAR 52.232-18 Availability of Funds (APR 1984) in the Clause section of this RFQ.
 
 ## Important Dates to Remember
-Response Date - February 22, 2019
+Response Date - February 25, 2019
 
 Q&A Due - February 15, 2019
 
